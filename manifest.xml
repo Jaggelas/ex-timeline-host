@@ -74,7 +74,7 @@
       <bt:ShortStrings>
   <bt:String id="GetStarted.Title" DefaultValue="Welcome to ExTimeline"/>
   <bt:String id="CommandsGroup.Label" DefaultValue="ExTimeline"/>
-  <bt:String id="TaskpaneButton.Label" DefaultValue="Open ExTimeline"/>
+  <bt:String id="TaskpaneButton.Label" DefaultValue="ExTimeline"/>
       </bt:ShortStrings>
       <bt:LongStrings>
   <bt:String id="GetStarted.Description" DefaultValue="Build, style, and refresh a project timeline directly inside Excel with ExTimeline."/>
