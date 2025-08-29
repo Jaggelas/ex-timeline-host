@@ -10463,7 +10463,7 @@
 							o.createElement(
 								'div',
 								{ className: 'flex items-center gap-4 flex-wrap' },
-								o.createElement('img', { src: '../assets/icon-128.png', alt: 'logo', className: 'w-10 h-10 rounded-xl shadow ring-1 ring-white/50' }),
+								o.createElement('img', { src: './assets/icon-128.png', alt: 'logo', className: 'w-10 h-10 rounded-xl shadow ring-1 ring-white/50' }),
 								o.createElement('div', { className: 'flex flex-col items-start' }, o.createElement(fe, { className: 'text-slate-800 font-semibold tracking-wide flex items-center gap-2' }, e, o.createElement('span', { className: 'text-xs font-normal text-slate-500 ms-2 tracking-normal' }, 'Gantt Timeline')), o.createElement(ye, { appearance: 'filled', color: d.startsWith('Render') ? 'brand' : 'informative' }, d))
 							),
 							o.createElement(Ne, null),
